@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1,广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=bc51e3d93bb759cc19e90a43daf63a52&txTime=18d6024d1f1
+#EXTINF:-1,广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4ff4e9fa3d8c199f129b041718204b30&txTime=18d6024d1f1
+#EXTINF:-1,广州影视
+https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=45157658db4a5f6113fde1af4e735119&txTime=18d6024d1f2
+#EXTINF:-1,4K南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=806893b81a14f51a11b8d5fef99d8da5&txTime=18d6024d1f2
